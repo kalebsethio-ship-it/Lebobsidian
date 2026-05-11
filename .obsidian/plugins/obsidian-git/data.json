@@ -1,7 +1,7 @@
 {
   "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "pc-sync",
-  "commitMessageScript": "",
+  "commitMessageScript": "pc-sync here",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
