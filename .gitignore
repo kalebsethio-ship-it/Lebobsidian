@@ -1,0 +1,12 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Obsidian workspace states (avoids "Open Tabs" conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/indexed-*.json
+
+# Internal trash
+.trash/
